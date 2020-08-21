@@ -1,6 +1,6 @@
 # chines app remover
 
-A new Flutter project.
+Chines app remover is one of the flutter app in which you can detect the whole install chines app and select better alternative for those app.
 
 ## Getting Started
 
